@@ -22,10 +22,14 @@ Visual Indicators: Displays 'L' shaped lines with green, yellow, and red colors 
 ### *Prerequisites*
 Ensure you have the following installed:
 
+   -Jetbot MINI image 2GB
    -Python 3.6
    -OpenCV
-   -Jetson Nano (for Jetbot Mini)
+   -Jetpack image(for Jetbot Mini)
    -NumPy
-   -Jetbot library
+   -Jetbotmini library
+   -threading
+   -IPython.display
+
 
 
