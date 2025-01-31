@@ -2,7 +2,7 @@ Welcome to the AI-Powered-Jetbot-Parking wiki!
 
 # AI-Powered Jetbot Parking
 
-![alt text]( https://github.com/pahaht/AI-Powered-Jetbot-Parking/blob/main/parking-jet.JPG)
+![alt text]( https://github.com/pahaht/AI-Powered-Jetbot-Parking/blob/main/parking.JPG)
 
 
 
