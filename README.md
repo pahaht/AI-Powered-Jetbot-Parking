@@ -25,7 +25,6 @@ Ensure you have the following installed:
    -Jetbot MINI image 2GB
    -Python 3.6
    -OpenCV
-   -Jetpack image(for Jetbot Mini)
    -NumPy
    -Jetbotmini library
    -threading
